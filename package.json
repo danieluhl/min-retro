@@ -1,7 +1,7 @@
 {
   "name": "min-retro",
   "private": true,
-  "description": "🎈 PartyKit ⤫ Remix 💿",
+  "description": "Minimal Retro Board",
   "sideEffects": false,
   "type": "module",
   "scripts": {
@@ -26,7 +26,8 @@
     "@types/react": "^18.3.4",
     "@types/react-dom": "^18.3.0",
     "concurrently": "^8.2.2",
-    "eslint": "^8.57.0",
+    "eslint": "^8.57.1",
+    "eslint-plugin-tailwindcss": "^3.17.4",
     "partykit": "^0.0.110",
     "rimraf": "^6.0.1",
     "typescript": "^5.5.4"
